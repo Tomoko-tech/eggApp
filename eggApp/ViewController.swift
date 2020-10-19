@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         countLabel.text = String(count)
         
         dispImage()
+        
+        print("あいうえお")
     }
 
 
