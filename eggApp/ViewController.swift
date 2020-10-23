@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         dispImage()
         
         print("あいうえお")
+        print("かきこけこ2020.10.22")
     }
 
 
