@@ -19,8 +19,6 @@ class ViewController: UIViewController {
         
         print("あいうえお")
         print("かきこけこ2020.10.22")
-        //追加しました
-        print("さしすせそ2020.10.26")
     }
 
 
