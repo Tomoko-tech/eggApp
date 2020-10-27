@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print("あいうえお")
         print("かきこけこ2020.10.22")
         print("さしすせそ")
+        print("aaaaa")
     }
 
 
